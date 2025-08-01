@@ -21,7 +21,6 @@ print("\n|A| = det(A) =", determint_A)
 
 
 # 2) Consider matrix 𝐁 shown below. Answer the following questions:
-
 #(b) Calculate the determinant of matrix 𝐀
 B = sp.Matrix([
     [0, 1, 0, -2, 1],
